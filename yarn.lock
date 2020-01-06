@@ -1836,10 +1836,9 @@ number-is-nan@^1.0.0:
   resolved "https://registry.npmjs.org/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-o2team-joi-to-swagger@^3.2.2:
+o2team-joi-to-swagger@VoodooTeam/joi-to-swagger#b4fdf306fc3d870a5aafe5df4df57e3b3e4878fc:
   version "3.2.2"
-  resolved "https://registry.npmjs.org/o2team-joi-to-swagger/-/o2team-joi-to-swagger-3.2.2.tgz#52c337a4d80bc3195d9dc4c5682b8093fdbb7102"
-  integrity sha512-9OfFltFX/q8XmuFO0I932Q4Fpu9Ys40Qs778gblvTYcliCRpnxQ71rbyUCa+w8eZUwBH9XcSVL+w8V27Td0oKw==
+  resolved "https://codeload.github.com/VoodooTeam/joi-to-swagger/tar.gz/b4fdf306fc3d870a5aafe5df4df57e3b3e4878fc"
   dependencies:
     lodash "^4.17.11"
 
